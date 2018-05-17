@@ -17,3 +17,6 @@ lowercase.toLowerCase() === lowercase
 var mixedCase = 'Hi there!'
 mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
+function sayHiToGrandma(string) {
+  return "I can't hear you"
+}
