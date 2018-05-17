@@ -17,4 +17,4 @@ function sayHiToGrandma(string) {
 else if (string === `HELLO`) }
 return"YES INDEED!"
 }
-if (string)
+else if (string ===
